@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3liotmg
-- 👀 I’m interested in ... carbon-aware networking, methods to improve model efficiency, improving cloud efficiency, models for carbon-aware decision-making
+- 👀 I’m interested in ... carbon-aware networking, methods to improve model efficiency, improving cloud (compute & storage) efficiency, models for carbon-aware decision-making
 - 💞️ I’m looking to collaborate on ... methods/approaches for capturing and evaluating life cycle impacts of AI systems end-to-end 
 - 📫 How to reach me ... eliot.m.gillings@gmail.com
 - 😄 Pronouns: ... he/him
